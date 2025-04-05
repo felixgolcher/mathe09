@@ -2,7 +2,7 @@
 
 # Über dieses Verzeichnis
 
-Hier findet sich das Übungs- und Unterrichtsmaterial für Mathematik für die 9. Klasse der Freien Schule Mahlsdorf.
+Hier findet sich das Übungs- und Unterrichtsmaterial für Mathematik für die 9. Klasse.
 
 Alles, was vielleicht etwas technisch aussieht, könnt Ihr ignorieren, wichtig sind die Ordner, in denen ihr die Dateien findet, die ihr braucht.
 
